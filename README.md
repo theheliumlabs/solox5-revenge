@@ -2,8 +2,6 @@
 Reverse Engineering the SOLO-X5 Bluetooth speaker.
 Read our findings below.
 
-## PCB Images
-
 ![SOLO X5](https://github.com/theheliumlabs/solox5-revenge/blob/main/images/SOLOX5-RE-IM-01A.jpg)
 
 ## Power Delivery, Battery Management
