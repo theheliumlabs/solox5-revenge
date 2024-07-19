@@ -2,6 +2,10 @@
 Reverse Engineering the SOLO-X5 Bluetooth speaker.
 Read our findings below.
 
+## PCB Images
+
+![SOLO X5](https://github.com/theheliumlabs/solox5-revenge/blob/main/images/SOLOX5-RE-IM-01A.jpg)
+
 ## Power Delivery, Battery Management
 System is powered by a 3.7V LiPo (500mAh), that charges through a micro-B USB (3-pin) connector.
 
@@ -12,6 +16,8 @@ The `+VBAT` is mainly powering the system except VDDIO that is generated interna
 ## Main Chip: Microcontroller
 The chip markings indicate a AF021BP0F part from JL (Zhuhai Jieli Technology Co) to which there are absolutely no documentation available. The largely similar part from JL that resembles this microcontroller is AC6965E. We have verified the package pins and functionality match to that of AC6965E.
 
+### ANNOTATED PCB
+![SOLO X5](https://github.com/theheliumlabs/solox5-revenge/blob/main/images/solox5-pcb-annotated-02.jpeg)
 
 ## Audio feed points
 
