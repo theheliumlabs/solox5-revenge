@@ -88,3 +88,9 @@ To conclude, it is to be said, a lot of lessons learned on how to make products 
 We have published the schematics, high resolution PCB images and other information yielded as a result of reverse engineering effort. 
 
 ENJOY!!!!!!!!!
+
+
+## License
+
+This Project and information is published under General Public License V3.0 See `LICENSE.txt` for more information.
+> https://www.gnu.org/licenses/quick-guide-gplv3.html
